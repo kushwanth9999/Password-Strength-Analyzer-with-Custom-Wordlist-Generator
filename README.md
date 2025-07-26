@@ -17,7 +17,7 @@ A Python-based tool to analyze password strength and generate custom wordlists t
 - Python 3.x
 - [zxcvbn](https://pypi.org/project/zxcvbn/)
 - Tkinter
-- Random, String, Datetime
+- Random, String, Date, time
 
 ---
 
