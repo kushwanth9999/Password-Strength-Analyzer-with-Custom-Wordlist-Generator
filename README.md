@@ -1,6 +1,6 @@
 # 🔐 Password Strength Analyzer with Custom Wordlist Generator
 
-A Python-based tool to analyze password strength and generate custom wordlists tailored for penetration testing and cybersecurity practice.
+A Python-based tool to analyze password strength and generate custom wordlists during Elevate Labs Internship and cybersecurity practice.
 
 ## 🚀 Features
 
