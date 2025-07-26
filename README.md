@@ -41,8 +41,8 @@ Provides text-based password analysis and wordlist generation.
 📦 PasswordTool
 ├── analyzer.py         # zxcvbn-based password analyzer
 ├── generator.py        # Custom + leetspeak wordlist generator
-├── main.py             # CLI interface
 ├── gui.py              # Tkinter GUI interface
+├── main.py             # CLI interface
 └── README.md           # Project documentation
 ```
 
